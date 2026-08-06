@@ -1,0 +1,13 @@
+import time
+print("==================")
+print("Created By Rovanio")
+print("==================")
+time.sleep(3)
+print("\n" * 50)
+print("=====================")
+print("Welcome to Calculator")
+print("=====================")
+num1 = input("Enter the first number: ")
+num2 = input("Enter the first number: ")
+result = float(num1)+float(num2)
+print(result)
